@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fix Broken Email Addresss
+=======
+Created New Footer [iss53]
+>>>>>>> iss53
